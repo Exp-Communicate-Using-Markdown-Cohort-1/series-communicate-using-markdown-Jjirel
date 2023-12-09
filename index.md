@@ -1,4 +1,4 @@
-# This is markdown communication task
+# This is jass
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)\
 
 ```
